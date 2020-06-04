@@ -27,7 +27,7 @@ ID・パスワードを渡すと鍵を自動で解錠し、メールで通知し
 
 ## Demo
 
-https://www.slideshare.net/secret/GcZBZEwwJ8iReY
+https://www.slideshare.net/secret/1ntxkdjvIRdAy4
 
 <br>
 デモ動画① (スライド16)：https://youtu.be/yPeY-DcyLYs
