@@ -11,7 +11,14 @@ ID・パスワードを渡すと鍵を自動で解錠してくれるWEBアプリ
 
 ## Demo, Usage
 
-Please check 'Introduction.pptx'
+https://www.slideshare.net/secret/GcZBZEwwJ8iReY
+
+<br>
+デモ動画① (スライド16)：https://youtu.be/yPeY-DcyLYs
+
+デモ動画② (スライド17)：https://youtu.be/7T0FOpfCuQI
+
+デモ動画③ (スライド18)：https://youtu.be/a-9NaD4W4_Q
 
 ## Requirement
 
@@ -38,6 +45,6 @@ Please check 'Introduction.pptx'
 
 ## Author
 
-・[tkyawa](https://github.com/tkyawa)
+・[tkyawa](https://github.com/tkyawa) : In charge of Hardware
 
-・[tehhuu](https://github.com/tehhuu)
+・[tehhuu](https://github.com/tehhuu) : In charge of Software
