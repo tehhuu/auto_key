@@ -19,8 +19,8 @@ ID・パスワードを渡すと鍵を自動で解錠し、メールで通知し
 ・サーボモータの回転状態を取得しておくことで、ページ上のボタンを押すと鍵が閉まっているか確認できる。
 <br>
 (You can check if the key is locked by pressing a button.)
-
 <br>
+
 ・IDを忘れた場合は登録済みのメールアドレスを入力すると、メールでパスワード通知をしてくれる。
 <br>
 (When you forget your ID, you can get it by entering your registered Gmail adress.)
