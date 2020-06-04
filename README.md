@@ -5,14 +5,14 @@
 
 ## Description
 
-ID・パスワードを渡すと鍵を自動で解錠してくれるWEBアプリ
+ID・パスワードを渡すと鍵を自動で解錠し、メールで通知してくれるWEBアプリ
 
-(A web application that automatically unlocks the key when you pass your ID and password)
+(A web application that automatically unlocks the key and notify it by Gmail when you enter your ID and password)
 
 ## Function
 
 ・IDとパスワードをデータベース上の値と照合し、値が正しければArduino経由でサーボモータを回転させ、鍵を解除する。その際に、データベースに登録されたメールアドレスに通知メールを送信する。
-
+<br>
 (You can unlock the key and get the notification by Gmail if you enter your ID and password.)
 <br>
 
@@ -61,6 +61,6 @@ https://www.slideshare.net/secret/GcZBZEwwJ8iReY
 
 ## Author
 
-・[tkyawa](https://github.com/tkyawa) : In charge of Hardware
+・[tkyawa](https://github.com/tkyawa) : In charge of Hardware part
 
-・[tehhuu](https://github.com/tehhuu) : In charge of Software
+・[tehhuu](https://github.com/tehhuu) : In charge of Software part
