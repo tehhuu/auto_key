@@ -9,15 +9,31 @@ ID・パスワードを渡すと鍵を自動で解錠してくれるWEBアプリ
 
 (A web application that automatically unlocks the key when you pass your ID and password)
 
-## Demo, Usage
+## Function
+
+・IDとパスワードをデータベース上の値と照合し、値が正しければArduino経由でサーボモータを回転させ、鍵を解除する。その際に、データベースに登録されたメールアドレスに通知メールを送信する。
+
+(You can unlock the key and get the notification by Gmail if you enter your ID and password.)
+<br>
+
+・サーボモータの回転状態を取得しておくことで、ページ上のボタンを押すと鍵が閉まっているか確認できる。
+<br>
+(You can check if the key is locked by pressing a button.)
+
+<br>
+・IDを忘れた場合は登録済みのメールアドレスを入力すると、メールでパスワード通知をしてくれる。
+
+(When you forget your ID, you can get it by entering your registered Gmail adress.)
+
+## Demo
 
 https://www.slideshare.net/secret/GcZBZEwwJ8iReY
 
 <br>
 デモ動画① (スライド16)：https://youtu.be/yPeY-DcyLYs
-
+<br>
 デモ動画② (スライド17)：https://youtu.be/7T0FOpfCuQI
-
+<br>
 デモ動画③ (スライド18)：https://youtu.be/a-9NaD4W4_Q
 
 ## Requirement
