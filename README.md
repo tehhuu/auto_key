@@ -1,7 +1,7 @@
 閉めルンです
 ====
 
-![S__163815430 (2)](https://user-images.githubusercontent.com/48121881/77843198-d1336300-71d5-11ea-8d9c-aa0ea4339d8f.jpg)
+![スクリーンショット 2020-06-05 3 06 20](https://user-images.githubusercontent.com/48121881/83794928-b0a5ee80-a6d9-11ea-88e6-b2ee08a95fab.png)
 
 ## Description
 
@@ -22,7 +22,7 @@ ID・パスワードを渡すと鍵を自動で解錠し、メールで通知し
 
 <br>
 ・IDを忘れた場合は登録済みのメールアドレスを入力すると、メールでパスワード通知をしてくれる。
-
+<br>
 (When you forget your ID, you can get it by entering your registered Gmail adress.)
 
 ## Demo
