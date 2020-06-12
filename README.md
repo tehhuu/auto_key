@@ -16,7 +16,7 @@ ID・パスワードを渡すと鍵を自動で解錠し、メールで通知し
 (You can unlock the key and get the notification by Gmail if you enter your ID and password.)
 <br>
 
-・サーボモータの回転状態を取得しておくことで、ページ上のボタンを押すと鍵が閉まっているか確認できる。
+・ページ上のボタンを押すと、ドアスイッチ上の電流状態から鍵が閉まっているか確認し、表示する。
 <br>
 (You can check if the key is locked by pressing a button.)
 <br>
@@ -25,7 +25,7 @@ ID・パスワードを渡すと鍵を自動で解錠し、メールで通知し
 <br>
 (When you forget your ID, you can get it by entering your registered Gmail adress.)
 
-## Demo
+## mechanism, Demo
 
 https://www.slideshare.net/secret/1ntxkdjvIRdAy4
 
@@ -45,9 +45,9 @@ https://www.slideshare.net/secret/1ntxkdjvIRdAy4
 
 ・ドアスイッチ
 
-・導線
+・Arduino
 
-(・Arduino)
+・導線
 
 ## Install
 
